@@ -2,6 +2,7 @@
 generator/preview
 generator/temp/
 *_rc.py
+qleany_preview
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
